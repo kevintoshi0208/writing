@@ -41,7 +41,7 @@ VM: VituralBox 6.0.2r2 -CentOS
 跟著筆者試試下面的方法:  
 開啟 windows 的 執行 輸入 secpol 開啟以下畫面  
 
-![Alt text](/img/07481bf27739f6f4d6c323465d3c56e0-1.png)
+![Alt text]( img/07481bf27739f6f4d6c323465d3c56e0-1.png )
 
 本機原則->使用者權限指派->建立符號連結  
 將自己目前的使用者加入 進去重新開機後  
@@ -51,4 +51,4 @@ VM: VituralBox 6.0.2r2 -CentOS
 
 完成後 yarn/npm就能順利install專案了  
 
-![Alt text](/img/07481bf27739f6f4d6c323465d3c56e0-2.png)
+![Alt text]( img/07481bf27739f6f4d6c323465d3c56e0-2.png )
